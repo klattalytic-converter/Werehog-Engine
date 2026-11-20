@@ -4,6 +4,8 @@
 
 A full remaster and restoration of Sonic X-Treme's actual game engine, using [the amazing C++ SGL Wrapper SaturnRingLib](https://github.com/ReyeMe/SaturnRingLib)
 
+This will be released as soon as the code is a bit more complete :)
+
 ----
 
 The only public build of Sonic X-treme that actually uses the engine the project would end up going with (Christina Coffin's "boss engine") is the "718 Build".
@@ -13,7 +15,15 @@ What's the point of doing this if Sonic Jam's Sonic World exists?
 Well mostly to look at and preserve an absolutely fascinating codebase, but also because Jam's 3D engine is outrageously complex compared to the boss engine. A LOT of that engine was written in straight up assembly, and it makes use of a ton of proprietary and undocumented formats and stuff. I'll leave that to people who know what they're doing. Sonic X-Treme is also one of the most infamous cancelled games of all time, and one with some of the most misinformation surrounding it, so I'd prefer to help make this game a little more documented instead.
 
 ----
+Here are some pics to show off Werehog engine (using a VERY buggy WIP build, sorry!)
+![Gameplay](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/WerehogGameplay.png)
+![More Gameplay](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/Spin.png)
+![Dynamic Reflections](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/DynamicReflections.png)
+![Metal Blade Boss Arena](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/DynamicLighting2.png)
+![Super Sonic](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/SuperSonic.png)
+![The real X-Treme title cards](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/JadeGully.png)
 
+----
 AI use disclaimer:
 
 I've been seeing a LOT of exciting fan projects that end up being pretty much entirely Vibecoded and barely disclose it. So what about Werehog Engine?
