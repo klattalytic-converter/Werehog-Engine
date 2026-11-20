@@ -1,4 +1,7 @@
 # Werehog-Engine
+
+![Werehog Logo](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/Untitled75_20261118204925.png)
+
 A full remaster and restoration of Sonic X-Treme's actual game engine, using [the amazing C++ SGL Wrapper SaturnRingLib](https://github.com/ReyeMe/SaturnRingLib)
 
 ----
