@@ -10,7 +10,9 @@ What's the point of doing this if Sonic Jam's Sonic World exists?
 Well mostly to look at and preserve an absolutely fascinating codebase, but also because Jam's 3D engine is outrageously complex compared to the boss engine. A LOT of that engine was written in straight up assembly, and it makes use of a ton of proprietary and undocumented formats and stuff. I'll leave that to people who know what they're doing. Sonic X-Treme is also one of the most infamous cancelled games of all time, and one with some of the most misinformation surrounding it, so I'd prefer to help make this game a little more documented instead.
 
 ----
-AI use disclaimer
+
+AI use disclaimer:
+
 I've been seeing a LOT of exciting fan projects that end up being pretty much entirely Vibecoded and barely disclose it. So what about Werehog Engine?
 
 - Does this project use AI code?
