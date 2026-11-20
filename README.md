@@ -1,7 +1,4 @@
-# Werehog-Engine
-
 ![Werehog Logo](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/Untitled75_20261118204925.png)
-
 A full remaster and restoration of Sonic X-Treme's actual game engine, using [the amazing C++ SGL Wrapper SaturnRingLib](https://github.com/ReyeMe/SaturnRingLib)
 
 This will be released as soon as the code is a bit more complete :)
@@ -17,11 +14,11 @@ Well mostly to look at and preserve an absolutely fascinating codebase, but also
 ----
 Here are some pics to show off Werehog engine (using a VERY buggy WIP build, sorry!)
 ![Gameplay](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/WerehogGameplay.png)
+![The real X-Treme title cards](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/JadeGully.png)
 ![More Gameplay](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/Spin.png)
 ![Dynamic Reflections](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/DynamicReflections.png)
 ![Metal Blade Boss Arena](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/DynamicLighting2.png)
 ![Super Sonic](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/SuperSonic.png)
-![The real X-Treme title cards](https://github.com/klattalytic-converter/Werehog-Engine/blob/main/JadeGully.png)
 
 ----
 AI use disclaimer:
